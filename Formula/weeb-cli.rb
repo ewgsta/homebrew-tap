@@ -3,8 +3,8 @@ class WeebCli < Formula
 
   desc "Tarayıcı yok, reklam yok. Sadece sen ve anime."
   homepage "https://github.com/ewgsta/weeb-cli"
-  url "https://files.pythonhosted.org/packages/source/w/weeb-cli/weeb-cli-0.1.1.tar.gz"
-  sha256 "60e75f6bf6f1519eeab421aff66692ca02b354e2aa5ae91f919e546635cf0d6e"
+  url "https://files.pythonhosted.org/packages/source/w/weeb-cli/weeb-cli-0.1.2.tar.gz"
+  sha256 "5143fc951024b8b3714c793552b5ae3de4be436ed472754c64299e67338962d1"
   license "CC-BY-NC-ND-4.0"
 
   depends_on "python@3.11"
